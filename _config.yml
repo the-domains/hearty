@@ -2,6 +2,7 @@ name: Hearty
 favicon: null
 layout_spectrum: 0.23132
 typography_spectrum: 0.24859
+title: Hearty
 cta:
   domain: null
   bucket: null
