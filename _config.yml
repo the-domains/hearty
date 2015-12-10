@@ -1,7 +1,7 @@
 name: Hearty
 favicon: null
-layout_spectrum: 0.13292208244092762
-typography_spectrum: 0.8606861375737935
+layout_spectrum: 0.23132
+typography_spectrum: 0.24859
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.09646178735420108
-  lightness: 0.6855616124812514
+    - '#f03d6b'
+    - '#000000'
+    - '#800000'
+    - '#ffffff'
+    - '#808080'
+  brandStrength: 0
+  lightness: 1
   saturation: 0.024938678136095405
-  rhythmicContrast: 0.7893296724651009
+  rhythmicContrast: 0.75
 purpose: []
